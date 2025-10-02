@@ -8,3 +8,7 @@ Run: python calculator.py
 # Task 3 - Password Generator
 Run: python password_generator.py
 
+# Task 5 - Contact Book
+Run: python contact_book.py
+Stores contacts in contacts.json
+
